@@ -1,6 +1,6 @@
 <?php 
 
-require_once(__DIR__ . '/../modules/simpletest/autorun.php');
+require_once(__DIR__ . '/modules/simpletest/autorun.php');
 require_once(__DIR__ . '/../src/knurt/test/CodeStructure.php');
 require_once(__DIR__ . '/../src/knurt/domaincheck/WhoIsDomainCheck.php');
 
